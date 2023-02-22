@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to top, rgb(38, 151, 195), rgb(21, 192, 21));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    background: linear-gradient(to right, skyblue, green);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p {
+    background: linear-gradient(to left, skyblue, blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

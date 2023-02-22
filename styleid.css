@@ -1,0 +1,28 @@
+body {
+    background-color: plum;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    background-color: azure;
+    color: chocolate;
+}
+
+#p1 {
+    color: tomato;
+}
+
+#p2 {
+    color: darksalmon;
+}
+
+#p3 {
+    color: deepskyblue;
+}
+
+#p4 {
+    color: tomato;
+}
